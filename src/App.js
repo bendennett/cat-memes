@@ -15,6 +15,7 @@ function App() {
   return (
     <main>
       <h1>Cat Memes</h1>
+    <div> <img src: "https://images.app.goo.gl/1KgcWzZqsxxeP4CJ9"/></div>
       <h2>The date according to Go is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
     </main>
