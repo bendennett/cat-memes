@@ -15,7 +15,7 @@ function App() {
   return (
     <main>
       <h1>Cat Memes</h1>
-    <div> <img src="https://i.pinimg.com/originals/65/2f/91/652f91e79a123904bf66833d73e3ca9f.jpg" /></div>
+    <div> <img src="https://cdn1-www.cattime.com/assets/uploads/gallery/25-funny-cat-memes/funny-cats-hugging-memes.jpg" /></div>
       <h2>The date according to Go is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
     </main>
